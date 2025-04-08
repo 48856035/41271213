@@ -6,5 +6,9 @@ HW2
 [RDai.py](https://github.com/48856035/41271213/blob/main/RDai.py)
 截圖
 ![HW2shot](https://github.com/user-attachments/assets/dd3b4d9a-9321-4654-bfe9-2a00844a9c4e)
+HW3
+截圖
+![螢幕擷取畫面 2025-04-08 232248](https://github.com/user-attachments/assets/e4403893-1d8f-4c00-91c9-cfeebc359f50)
+
 
 
